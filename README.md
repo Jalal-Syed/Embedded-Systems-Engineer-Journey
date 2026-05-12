@@ -1,2 +1,4 @@
 # Embedded-Systems-Engineer-Journey
-This repo is to track/record my Journey as an Embedded Systems Engineer
+## This Repo is to keep track/record my journey as an Embedded Systems Engineer. 
+
+> Will be updated on (almost) daily basis
