@@ -1,0 +1,98 @@
+# Build & Compilation
+*.o
+*.a
+*.so
+*.dll
+*.exe
+*.out
+*.elf
+*.hex
+*.bin
+*.asm
+build/
+dist/
+.build/
+*.d
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.cproject
+.settings/
+*.sublime-workspace
+*.sublime-project
+
+# Arduino
+*.ino.cpp
+*.ino.elf
+applet/
+.clang_complete
+
+# STM32CubeIDE / Embedded Studio
+.mxproject
+*.ioc
+
+# PlatformIO
+.pio/
+.platformio/
+.pioenvs/
+lib/
+include/
+src/lib/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Documentation
+*.doxygen
+html/
+latex/
+
+# Debug & Simulation
+*.o.d
+*.lst
+*.lss
+sim/
+*.vcd
+
+# Object & Static Analysis
+cppcheck-report.xml
+.clang-tidy
+
+# OS Files
+Thumbs.db
+.DS_Store
+*.swp
+*.bak
+
+# Dependencies
+/lib/
+/build/
+/Debug/
+/Release/
+/obj/
+
+# Logs
+*.log
+debug.log
+
+# User-specific files
+*.user
+*.suo
+
+# Misc
+*.tmp
+*.temp
